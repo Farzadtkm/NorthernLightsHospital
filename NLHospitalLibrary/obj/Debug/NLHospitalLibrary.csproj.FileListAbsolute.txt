@@ -1,0 +1,15 @@
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Desktop\NHL\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Desktop\NHL\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Desktop\NHL\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Desktop\NHL\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Desktop\NHL\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.pdb

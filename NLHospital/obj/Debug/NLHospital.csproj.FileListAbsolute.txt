@@ -1,0 +1,57 @@
+D:\NLHBaseWindow\NLHospital\obj\Debug\NLHospital.csprojAssemblyReference.cache
+D:\NLHBaseWindow\NLHospital\obj\Debug\NLHospital.frmBillPatient.resources
+D:\NLHBaseWindow\NLHospital\obj\Debug\NLHospital.frmDoctors.resources
+D:\NLHBaseWindow\NLHospital\obj\Debug\NLHospital.frmMenu.resources
+D:\NLHBaseWindow\NLHospital\obj\Debug\NLHospital.frmNLHospital.resources
+D:\NLHBaseWindow\NLHospital\obj\Debug\NLHospital.csproj.GenerateResource.cache
+D:\NLHBaseWindow\NLHospital\obj\Debug\NLHospital.csproj.CoreCompileInputs.cache
+D:\NLHBaseWindow\NLHospital\obj\Debug\NLHospital.exe
+D:\NLHBaseWindow\NLHospital\obj\Debug\NLHospital.pdb
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.csprojAssemblyReference.cache
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.frmBillPatient.resources
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.frmDoctors.resources
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.frmMenu.resources
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.frmNLHospital.resources
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.csproj.GenerateResource.cache
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\bin\Debug\NLHospital.exe
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\bin\Debug\NLHospital.pdb
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\bin\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\bin\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\bin\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.csproj.CopyComplete
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.exe
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\Pascou. Projet integation 2\obj\Debug\NLHospital.pdb
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\bin\Debug\NLHospital.exe
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\bin\Debug\NLHospital.pdb
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\bin\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\bin\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\bin\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.csprojAssemblyReference.cache
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.frmBillPatient.resources
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.frmDoctors.resources
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.frmMenu.resources
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.frmNLHospital.resources
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.csproj.GenerateResource.cache
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.csproj.CopyComplete
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.exe
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHospital\obj\Debug\NLHospital.pdb
+C:\Users\ITCITY\Desktop\NLH\NLHospital\bin\Debug\NLHospital.exe
+C:\Users\ITCITY\Desktop\NLH\NLHospital\bin\Debug\NLHospital.pdb
+C:\Users\ITCITY\Desktop\NLH\NLHospital\bin\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Desktop\NLH\NLHospital\bin\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Desktop\NLH\NLHospital\bin\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Desktop\NLH\NLHospital\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.csprojAssemblyReference.cache
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.frmBillPatient.resources
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.frmDoctors.resources
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.frmMenu.resources
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.frmNLHospital.resources
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.csproj.GenerateResource.cache
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.csproj.CopyComplete
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.exe
+C:\Users\ITCITY\Desktop\NLH\NLHospital\obj\Debug\NLHospital.pdb

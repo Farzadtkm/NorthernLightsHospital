@@ -1,0 +1,22 @@
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Downloads\Compressed\PP2E v1-0 Student Files 2005-0430\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Desktop\NHL\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Desktop\NHL\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Desktop\NHL\NLHBaseWindow\obj\Debug\NLHBaseWindow.csprojAssemblyReference.cache
+C:\Users\ITCITY\Desktop\NHL\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+C:\Users\ITCITY\Desktop\NHL\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+C:\Users\ITCITY\Desktop\NHL\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Desktop\NHL\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Desktop\NHL\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb
