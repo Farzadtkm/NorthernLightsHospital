@@ -13,3 +13,9 @@ C:\Users\ITCITY\Desktop\NHL\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.pd
 C:\Users\ITCITY\Desktop\NHL\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.CoreCompileInputs.cache
 C:\Users\ITCITY\Desktop\NHL\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.dll
 C:\Users\ITCITY\Desktop\NHL\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Desktop\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Desktop\NLH\NLHospitalLibrary\bin\Debug\NLHospitalLibrary.pdb
+C:\Users\ITCITY\Desktop\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csprojAssemblyReference.cache
+C:\Users\ITCITY\Desktop\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Desktop\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.dll
+C:\Users\ITCITY\Desktop\NLH\NLHospitalLibrary\obj\Debug\NLHospitalLibrary.pdb

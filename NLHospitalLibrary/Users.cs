@@ -1,76 +1,75 @@
 using System;
 using System.Data;
-using System.Data.SqlClient ;
+using System.Data.SqlClient;
+using System.Windows.Forms;
 
 namespace NLHospitalLibrary
 {
-	/// <summary>
-	/// Summary description for Users.
-	/// </summary>
-	public class Users
-	{
-		private SqlConnection m_oCn ;    
-		private SqlDataAdapter m_oDA;
-//		private string m_sClassName = "Users";
-		private string sSQL;
+    /// <summary>
+    /// Summary description for Users.
+    /// </summary>
+    public class Users
+    {
+        private SqlConnection mOCn;
+        private readonly SqlDataAdapter mODa;
 
-		public Users()
-		{
-			//
-			// TODO: Add constructor logic here
-			//
-			SqlCommand oSelCmd;
+        public Users()
+        {
+            InitializeConnection();
 
-			InitializeConnection();
+            const string sSql = "SELECT UserName, Password FROM Login ";
 
-			sSQL = "SELECT UserName, Pasword FROM Login " ;
-			oSelCmd = null;
-			oSelCmd = new SqlCommand(sSQL, m_oCn);
-			oSelCmd.CommandType = CommandType.Text;
+            var oSelCmd = new SqlCommand(sSql, mOCn) { CommandType = CommandType.Text };
 
-			m_oDA = new SqlDataAdapter();
-			m_oDA.SelectCommand = oSelCmd;
+            mODa = new SqlDataAdapter { SelectCommand = oSelCmd };
 
-			m_oCn = null;
+            mOCn = null;
+        }
 
-		}
+        public DataSet FindData(string id, string pass)
+        {
+            InitializeConnection();
 
-		public DataSet FindData(string ID, string pass)
-		{
-			InitializeConnection();
-			m_oCn.Open();
-			DataSet thisDataSet = new DataSet();
-			DataSet foundDataSet = new DataSet();
-			try
-			{
-				m_oDA.Fill (thisDataSet, "Login");
-				for (int n = 0; n < thisDataSet.Tables["Login"].Rows.Count ; n++)
-				{
-					if (thisDataSet.Tables["Login"].Rows[n]["UserName"].ToString () == ID)
-					{
-						if (thisDataSet.Tables["Login"].Rows[n]["Pasword"].ToString () == pass)
-						{
-							m_oDA.Fill(foundDataSet,n,1,"Login");							
-						}
-					}
-				}
-			}
-			catch 
-			{
-			}
-			finally
-			{
-				m_oCn.Close();
-				m_oCn = null;
-			}
-			return foundDataSet;
-		}
+            mOCn.Open();
 
-		private void InitializeConnection()
-		{
-			m_oCn = new SqlConnection(
-				@"Data Source=(local);Integrated Security=SSPI;" 
-				+ "Initial Catalog=NLHospital");
-		}
-	}
+            var thisDataSet = new DataSet();
+
+            var foundDataSet = new DataSet();
+
+            try
+            {
+                mODa.Fill(thisDataSet, "Login");
+
+                for (var n = 0; n < thisDataSet.Tables["Login"].Rows.Count; n++)
+                {
+                    if (thisDataSet.Tables["Login"].Rows[n]["UserName"].ToString() != id) continue;
+
+                    if (thisDataSet.Tables["Login"].Rows[n]["Password"].ToString() == pass)
+                    {
+                        mODa.Fill(foundDataSet, n, 1, "Login");
+                    }
+                }
+            }
+            catch (Exception exception)
+            {
+                // ignored
+                MessageBox.Show(exception.Message);
+            }
+            finally
+            {
+                mOCn.Close();
+
+                mOCn = null;
+            }
+
+            return foundDataSet;
+        }
+
+        private void InitializeConnection()
+        {
+            mOCn = new SqlConnection(
+                @"Data Source=.;Integrated Security=SSPI;"
+                + "Initial Catalog=NLHospital");
+        }
+    }
 }

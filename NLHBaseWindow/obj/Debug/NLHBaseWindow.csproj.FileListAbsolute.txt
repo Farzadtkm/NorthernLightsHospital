@@ -20,3 +20,11 @@ C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.Gen
 C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
 C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
 C:\Users\ITCITY\Desktop\NHL\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Desktop\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Desktop\NLH\NLHBaseWindow\bin\Debug\NLHBaseWindow.pdb
+C:\Users\ITCITY\Desktop\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csprojAssemblyReference.cache
+C:\Users\ITCITY\Desktop\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.NLHBase.resources
+C:\Users\ITCITY\Desktop\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.GenerateResource.cache
+C:\Users\ITCITY\Desktop\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.csproj.CoreCompileInputs.cache
+C:\Users\ITCITY\Desktop\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.dll
+C:\Users\ITCITY\Desktop\NLH\NLHBaseWindow\obj\Debug\NLHBaseWindow.pdb

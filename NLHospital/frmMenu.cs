@@ -285,22 +285,7 @@ namespace NLHospital
 			this.ResumeLayout(false);
 
 		}
-
-		internal void Activate()
-		{
-			throw new NotImplementedException();
-		}
-
-		private void ResumeLayout(bool v)
-		{
-			throw new NotImplementedException();
-		}
-
-		private void SuspendLayout()
-		{
-			throw new NotImplementedException();
-		}
-		#endregion
+        #endregion
 
 		private void btnDoctors_Click(object sender, System.EventArgs e)
 		{

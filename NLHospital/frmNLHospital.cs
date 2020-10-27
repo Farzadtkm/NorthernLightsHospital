@@ -235,10 +235,8 @@ namespace NLHospital
                         
                         break;
                 }
-
             }
-
-            catch
+            catch (Exception exception)
             {
                 switch (Cnt)
                 {
